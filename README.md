@@ -1,4 +1,8 @@
 # NLP_100_knock
+## reference
+solution: https://qiita.com/nymwa
 ## progress
-2021
-1112: Download files, 
+### 20211112:
+- start from Chap6
+- Download files
+- create this github
