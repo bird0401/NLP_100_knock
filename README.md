@@ -6,3 +6,14 @@ solution: https://qiita.com/nymwa
 - start from Chap6
 - Download files
 - create this github
+### 20211113:
+- finish 50-53
+- questions
+  - 50-53
+  - why argument min_df=10
+  - Can LG by string
+### 20211114:
+- finish 54-57
+- Libraries are very useful
+- micro and macro ave 
+- argsort is useful
