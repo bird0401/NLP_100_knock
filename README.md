@@ -16,4 +16,9 @@ solution: https://qiita.com/nymwa
 - finish 54-57
 - Libraries are very useful
 - micro and macro ave 
-- argsort is useful
+- argsort is useful- 
+### 20211115:
+- finish 58-59 (chap 6 finish)
+- why solver=‘saga’, instead of liblinear?
+- optuna is useful
+- xgb has many params
