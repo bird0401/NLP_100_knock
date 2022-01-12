@@ -25,3 +25,10 @@ solution: https://qiita.com/nymwa
 - why solver=‘saga’, instead of liblinear?
 - optuna is useful
 - xgb has many params
+### 20210111:
+- restart from chap6
+### 20210112:
+- when opening files, using "with open() as ~"
+- mecab can devide POS from sentenses automatically
+- mecab can infer base form, POS, POS in detali, etc.
+- 
