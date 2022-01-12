@@ -4,7 +4,7 @@ I proceed by referring the solution below
 ## reference
 solution: https://qiita.com/nymwa
 
-## progress
+## progress and consideration
 ### 20211112:
 - start from Chap6
 - Download files
@@ -28,7 +28,11 @@ solution: https://qiita.com/nymwa
 ### 20210111:
 - restart from chap4 
 ### 20210112:
+- finish chap4
 - when opening files, using "with open() as ~"
 - mecab can devide POS from sentenses automatically
 - mecab can infer base form, POS, POS in detali, etc.
+- by using defaultdict, we can initialize automatically
+- plt.figure initialize the graph
+- plt.hist can make histgram
 - 
