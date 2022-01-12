@@ -1,6 +1,9 @@
 # NLP_100_knock
+I proceed by referring the solution below
+
 ## reference
 solution: https://qiita.com/nymwa
+
 ## progress
 ### 20211112:
 - start from Chap6
