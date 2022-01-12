@@ -26,7 +26,7 @@ solution: https://qiita.com/nymwa
 - optuna is useful
 - xgb has many params
 ### 20210111:
-- restart from chap6
+- restart from chap4 
 ### 20210112:
 - when opening files, using "with open() as ~"
 - mecab can devide POS from sentenses automatically
