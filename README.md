@@ -2,7 +2,7 @@
 I proceed by referring the solution below
 
 ## reference
-solution: https://qiita.com/nymwa
+https://qiita.com/nymwa
 
 ## progress and consideration
 ### 20211112:
