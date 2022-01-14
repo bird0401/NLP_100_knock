@@ -1,5 +1,5 @@
 # NLP_100_knock
-I proceed by referring the solution below
+proceed by referring the solution below
 
 ## reference
 https://qiita.com/nymwa
