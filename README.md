@@ -24,8 +24,8 @@ https://qiita.com/nymwa
 ### 20210111:
 - restart from chap4 
 ### 20210112:
-- finish chap4
-- tech
+- finish chap4 形態素解析
+- tech 
   - when opening files, using "with open() as ~"
   - mecab can devide POS from sentenses automatically
   - mecab can infer base form, POS, POS in detali, etc.
@@ -33,7 +33,7 @@ https://qiita.com/nymwa
   - plt.figure initialize the graph
   - plt.hist can make histgram
 ### 20210114:
-- review chap6 50-58
+- review chap6 50-58 機械学習
 - tech
   - stratify is important to be balanced devision
   - string.punctuation is not only punctuation but also other symbols
@@ -42,7 +42,9 @@ https://qiita.com/nymwa
   - get_feature_names convert id to feature name
   - seaborn makes heatmap
 ### 20210115:
-- review chap6 58-59
+- review chap6 58-59 
 - GPU setting is needed
 - tqdm tell completed percent
 - setting learning time limit is important for testing
+### 20210123:
+- start chap8 ニューラルネット
