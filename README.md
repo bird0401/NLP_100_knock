@@ -41,3 +41,8 @@ https://qiita.com/nymwa
   - it is easy to pursue tf-idf by using TfidfVectorizer
   - get_feature_names convert id to feature name
   - seaborn makes heatmap
+### 20210115:
+- review chap6 58-59
+- GPU setting is needed
+- tqdm tell completed percent
+- setting learning time limit is important for testing
