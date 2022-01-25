@@ -48,3 +48,14 @@ https://qiita.com/nymwa
 - setting learning time limit is important for testing
 ### 20210123:
 - start chap8 ニューラルネット
+- use pytorch to create NN model
+- use KeyedVectors to make words vectors
+- use CrossEntropyLoss as Loss function
+### 20210124:
+- continue chap8
+- torch can use GPU
+- multi nn shows higher accuracy than single nn
+- creating nn is so ddificult, and cannot understand fully. I should study pytorch
+### 20210125:
+- finish chap8
+- start chap9 
