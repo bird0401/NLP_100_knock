@@ -55,7 +55,12 @@ https://qiita.com/nymwa
 - continue chap8
 - torch can use GPU
 - multi nn shows higher accuracy than single nn
-- creating nn is so ddificult, and cannot understand fully. I should study pytorch
+- creating nn is so dificult, and cannot understand fully. I should study pytorch
+- torch.nn.functions has relu()
+- nn.Module should change its mode by model.train and model.eval
+- should do optimizer.zero_grad to initiate it
 ### 20210125:
 - finish chap8
 - start chap9 
+- sed -e "s/hoge/hoge/g" ./file.txt > ./new_file.txt can translate its character
+- nn.Module can be a parent of RNN and CNN
