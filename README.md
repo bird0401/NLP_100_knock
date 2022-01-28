@@ -64,3 +64,17 @@ https://qiita.com/nymwa
 - start chap9 
 - sed -e "s/hoge/hoge/g" ./file.txt > ./new_file.txt can translate its character
 - nn.Module can be a parent of RNN and CNN
+### 20210126:
+- prroced chap9
+- rnn and cnn part
+### 20210127:
+- proceed chap9
+- cnn and BERT part
+### 20210128:
+- finish chap9
+- start chap7
+- BertTokenizer has 4 kinds. 
+  - num_params= base or large
+  - target_character= uncased or cased
+- pretrained_model.encode_plus can select max_length and pad_to_max_length, and input test is converted to ids and mask
+- BERT model is so heavy, but achieved the highest accuracy
