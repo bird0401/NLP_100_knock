@@ -78,3 +78,10 @@ https://qiita.com/nymwa
   - target_character= uncased or cased
 - pretrained_model.encode_plus can select max_length and pad_to_max_length, and input test is converted to ids and mask
 - BERT model is so heavy, but achieved the highest accuracy
+### 20210129
+- finish chap7
+- KeyedVectors is lighter than w2v, because it only load vector info.
+- KeyedVectors.most_similar(positive=[],negative=[],topn=hoge) can calculate plus-minus between words' vector
+- scipy.stats.spearmanr
+- sklaern.cluster.KMeans
+- scipy.cluster.hierarchy.linkage
